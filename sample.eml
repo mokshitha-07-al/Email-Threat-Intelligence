@@ -1,0 +1,12 @@
+From: attacker@example.com
+To: user@example.com
+Subject: Verify Your Account
+Date: Thu, 27 Aug 2026 10:00:00 +0000
+Received: from mail.example.com (203.0.113.25)
+
+URGENT! Please verify your account immediately.
+
+Your account has been temporarily suspended.
+
+Please visit:
+http://example.com/login
